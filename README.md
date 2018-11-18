@@ -1,6 +1,7 @@
 ## Machine learning project :
  
 4th Year of engineer school project, the goal of the project is to make a predictive analysis to prevent the resignation of employees using python and Machine Learning Algortithm
+You can find the report of the project (in french) in the repository
 
 ## Prerequisites :
 
